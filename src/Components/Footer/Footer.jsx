@@ -3,7 +3,7 @@ import FooterNav from './FooterNav'
 import FooterBody from './FooterBody'
 const Footer = () => {
   return (
-    <div>
+    <div className="bg-black text-white">
         <FooterNav />
         <FooterBody />
     </div>

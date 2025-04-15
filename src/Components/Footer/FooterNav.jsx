@@ -3,8 +3,8 @@ import { Instagram, Facebook, Phone } from "lucide-react";
 
 const Navbar = () => {
   return (
-    <div className="w-full fixed top-0 z-50 bg-red-700 text-white shadow-md rounded-b-2xl">
-      <div className="max-w-7xl mx-auto flex items-center justify-between px-6 py-12 relative">
+    <div className="w-full relative top-0 z-50 bg-red-700 text-white shadow-md rounded-b-2xl">
+      <div className="max-w-7xl mx-auto flex items-center justify-between px-9 py-12 relative">
         
         {/* Left Section - Nav Links */}
         <div className="flex items-center space-x-5 text-sm">
